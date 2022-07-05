@@ -1,7 +1,7 @@
-# Poc Api de Manipulação do EntityFramork com postgres SQL
+## Poc Api de ManipulaÃ§Ã£o do EntityFramork com postgres SQL
 
-## Commandos para criação do migations
+## Commandos para criaÃ§Ã£o do migrations
 
-dotnet tool install --global dotnet-ef
-dotnet ef migrations add MyFirstMigration
-dotnet ef database update
+- dotnet tool install --global dotnet-ef
+- dotnet ef migrations add MyFirstMigration
+- dotnet ef database update
